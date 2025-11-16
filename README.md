@@ -1,6 +1,7 @@
 # Install
 
 `npm install`
+`npm install mongoose@6.9.2`
 
 ---
 
